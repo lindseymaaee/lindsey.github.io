@@ -2,7 +2,10 @@ p{
 color:red;
 }
 
-head{
-  color:Blue;
+h1{
+  background-color: green;
+}
+h2{ 
+  background-color" #C8C8C8;
 }
 .summary { color:blue;}
