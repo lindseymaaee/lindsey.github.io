@@ -1,14 +1,8 @@
 p{
 
-background-color: #c0d7e8;
 }
 
 h2{
+background-color: #c0d7e8;
 
-border: 5px solid #236aa1;
-  padding: 20px;
-  width: 200px;
-  border-radius: 10px;
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
 }
