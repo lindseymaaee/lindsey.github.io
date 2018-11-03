@@ -2,7 +2,9 @@ h2{
 background-color: #c0d7e8;
 }
 
-
+body{
+  margin-top: 100px;
+}
 
 .name{
   text-align: center;
